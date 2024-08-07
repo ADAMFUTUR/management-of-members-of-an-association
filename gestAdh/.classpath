@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="limit-modules" value="jdk.management.jfr,jdk.charsets,jdk.xml.dom,jdk.jstatd,jdk.httpserver,jdk.jcmd,java.se,jdk.zipfs,jdk.javadoc,jdk.jshell,jdk.editpad,jdk.jsobject,jdk.sctp,java.smartcardio,jdk.unsupported,jdk.nio.mapmode,jdk.dynalink,jdk.unsupported.desktop,jdk.accessibility,jdk.security.jgss,jdk.hotspot.agent,jdk.crypto.cryptoki,jdk.net,jdk.random,jdk.naming.rmi,jdk.jconsole,jdk.crypto.mscapi,jdk.internal.vm.compiler,jdk.internal.vm.compiler.management,jdk.security.auth,jdk.jartool,jdk.jpackage,jdk.naming.dns,jdk.localedata"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
